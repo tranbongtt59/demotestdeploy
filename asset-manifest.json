@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/demotestdeploy/static/css/main.073c9b0a.css",
-    "main.js": "/demotestdeploy/static/js/main.f01bbb7a.js",
-    "static/js/787.9ce39bb4.chunk.js": "/demotestdeploy/static/js/787.9ce39bb4.chunk.js",
-    "static/media/logo.svg": "/demotestdeploy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/demotestdeploy/static/css/main.c345e664.css",
+    "main.js": "/demotestdeploy/static/js/main.8e3ffff4.js",
     "index.html": "/demotestdeploy/index.html",
-    "main.073c9b0a.css.map": "/demotestdeploy/static/css/main.073c9b0a.css.map",
-    "main.f01bbb7a.js.map": "/demotestdeploy/static/js/main.f01bbb7a.js.map",
-    "787.9ce39bb4.chunk.js.map": "/demotestdeploy/static/js/787.9ce39bb4.chunk.js.map"
+    "main.c345e664.css.map": "/demotestdeploy/static/css/main.c345e664.css.map",
+    "main.8e3ffff4.js.map": "/demotestdeploy/static/js/main.8e3ffff4.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f01bbb7a.js"
+    "static/css/main.c345e664.css",
+    "static/js/main.8e3ffff4.js"
   ]
 }
