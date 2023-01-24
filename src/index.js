@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 import Main from "./Main";
 import "./index.css";
 import { BrowserRouter } from 'react-router-dom';
+import App from './App';
  
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -11,7 +12,7 @@ root.render(
       <Main />
     </React.StrictMode> */}
 
-    <Main />
+    <App />
  
 
   </BrowserRouter>
